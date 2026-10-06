@@ -2,7 +2,7 @@
 
   <style>
     .m { font-family: "Courier New", Courier, monospace; font-weight: bold; font-size: 20px; fill: #ffff00;
-         transform-box: fill-box; animation: scroll 90s linear infinite; }
+         transform-box: fill-box; animation: scroll 120s linear infinite; }
     @keyframes scroll { from { transform: translateX(800px); } to { transform: translateX(-100%); } }
   </style>
   <rect width="800" height="40" fill="#000080"/>
